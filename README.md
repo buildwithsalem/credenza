@@ -105,7 +105,6 @@ Preferred communication style: Simple, everyday language.
 - drizzle-zod for generating Zod schemas from database tables
 
 **Development Tools**
-- Replit-specific Vite plugins for runtime error overlay, cartographer, and dev banner (disabled in production)
 - esbuild for bundling the production server
 - TypeScript for type checking (noEmit mode, types handled by bundler)
 
